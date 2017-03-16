@@ -6,7 +6,9 @@ This is a sample program from oxygine-framework https://github.com/oxygine/oxygi
 #### 1.1 then build your project by execute ${OXYGINE_FRAMEWORK}/examples/HelloWorld/proj.android/build-run.sh
 
 
+
 ### 2. Open android studio and click import project the select ${OXYGINE_FRAMEWORK}/examples/HelloWorld/proj.android/build.gradle
+![alt tag](https://github.com/Taymindis/oxygine-androidstudio/blob/master/references_images/import_project.png)
 
 
 
