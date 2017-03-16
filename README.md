@@ -5,10 +5,10 @@ This is a sample program from oxygine-framework https://github.com/oxygine/oxygi
 ### 1. clone the latest oxygine-framework from https://github.com/oxygine/oxygine-framework and download the latest SDL2 and rename it to SDL and put at the same peer directory with oxygine-framework
 #### 1.1 then build your project by execute ${OXYGINE_FRAMEWORK}/examples/HelloWorld/proj.android/build-run.sh
 
-![alt tag](https://github.com/Taymindis/oxygine-androidstudio/blob/master/references_images/import_project_img.png)
 
 
 ### 2. Open android studio and click import project the select ${OXYGINE_FRAMEWORK}/examples/HelloWorld/proj.android/build.gradle
+![alt tag](https://github.com/Taymindis/oxygine-androidstudio/blob/master/references_images/import_project.png)
 
 
 
