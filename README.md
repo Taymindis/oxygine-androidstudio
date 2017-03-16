@@ -8,7 +8,7 @@ This is a sample program from oxygine-framework https://github.com/oxygine/oxygi
 
 
 ### 2. Open android studio and click import project the select ${OXYGINE_FRAMEWORK}/examples/HelloWorld/proj.android/build.gradle
-![alt tag](https://github.com/Taymindis/oxygine-androidstudio/blob/master/references_images/import_project.png)
+![alt tag](https://github.com/Taymindis/oxygine-androidstudio/blob/master/references_images/import_project.png | height=100)
 
 
 
