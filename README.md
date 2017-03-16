@@ -8,7 +8,13 @@ This is a sample program from oxygine-framework https://github.com/oxygine/oxygi
 
 
 ### 2. Open android studio and click import project the select ${OXYGINE_FRAMEWORK}/examples/HelloWorld/proj.android/build.gradle
-![](https://github.com/Taymindis/oxygine-androidstudio/blob/master/references_images/import_project.png | height=100)
+	
+Try this markdown:
+
+![alt tag](http://url/to/img.png)
+I think you can link directly to the raw version of an image if it's stored in your repository. i.e.
+
+![alt tag](https://github.com/Taymindis/oxygine-androidstudio/blob/master/references_images/import_project.png)
 
 
 
