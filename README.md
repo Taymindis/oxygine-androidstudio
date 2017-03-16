@@ -44,3 +44,7 @@ ${OXYGINE_FRAMEWORK}/examples/HelloWorld/proj.android/obj/local/x86
 ![alt tag](https://github.com/Taymindis/oxygine-androidstudio/blob/master/references_images/debugger.png)
 
 
+### 7. Attached ready sample for references.
+
+### Thanks to https://github.com/oxygine/oxygine-framework has a stable build script.
+
