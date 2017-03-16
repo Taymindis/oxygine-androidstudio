@@ -1,0 +1,21 @@
+Executable : /Users/taymindis/android-ndk-r13b/ndk-build
+arguments : 
+NDK_PROJECT_PATH=null
+APP_BUILD_SCRIPT=/Users/taymindis/MyGit/oxygine-framework/examples/HelloWorld/proj.android/jni/Android.mk
+NDK_APPLICATION_MK=/Users/taymindis/MyGit/oxygine-framework/examples/HelloWorld/proj.android/jni/Application.mk
+APP_ABI=x86
+NDK_ALL_ABIS=x86
+NDK_DEBUG=0
+APP_PLATFORM=android-9
+NDK_OUT=/Users/taymindis/MyGit/oxygine-framework/examples/HelloWorld/proj.android/build/intermediates/ndkBuild/release/obj
+NDK_LIBS_OUT=/Users/taymindis/MyGit/oxygine-framework/examples/HelloWorld/proj.android/build/intermediates/ndkBuild/release/lib
+APP_CFLAGS+="-g -std=c11"
+APP_CPPFLAGS+="-g -std=c++11 -fexceptions -frtti"
+NDK_MODULE_PATH:=../../../..
+NDK_APPLICATION_MK:=jni/Application.mk
+APP_SHORT_COMMANDS=false
+LOCAL_SHORT_COMMANDS=false
+-B
+-n
+jvmArgs : 
+
