@@ -22,7 +22,7 @@ This is a sample program from oxygine-framework https://github.com/oxygine/oxygi
 
 
 ### 4. Add ndk-build closure in ${OXYGINE_FRAMEWORK}/examples/HelloWorld/proj.android/build.gradle. Then try to build it by execute assembleDebug from android-studio UI
-![alt tag](https://github.com/Taymindis/oxygine-androidstudio/blob/master/references_images/ndk_build_path1.png)
+![alt tag](https://github.com/Taymindis/oxygine-androidstudio/blob/master/references_images/ndk_buildpath1.png)
 ![alt tag](https://github.com/Taymindis/oxygine-androidstudio/blob/master/references_images/ndk_build_path2.png)
 ![alt tag](https://github.com/Taymindis/oxygine-androidstudio/blob/master/references_images/build_assembledebug.png)
 
