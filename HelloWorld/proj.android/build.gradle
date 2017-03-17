@@ -5,7 +5,7 @@ buildscript {
         jcenter()
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:2.2.+'
+        classpath 'com.android.tools.build:gradle:2.3.0'
     }
 }
 
@@ -16,13 +16,14 @@ android {
     enforceUniquePackageName=false
         
     compileSdkVersion 23
-    buildToolsVersion '23.0.2'
+    buildToolsVersion '25.0.0'
 
     defaultConfig {
         externalNativeBuild {
             ndkBuild {
-                cFlags "-g -std=c11"
-                cppFlags "-g -std=c++11 -fexceptions -frtti"
+                cFlags "-g"
+                cppFlags "-g","-std=c++11","-fexceptions","-frtti"
+//                cppFlags "-DTEST_CPP_FLAG2"  "-DTEST_CPP_FLAG2"
                 abiFilters "x86","armeabi-v7a"
                 arguments "NDK_MODULE_PATH:=../../../..","NDK_APPLICATION_MK:=jni/Application.mk"
             }
